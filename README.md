@@ -16,7 +16,7 @@ This class groups all nouns, interjections and adjectives together.
 This class contains functions used from CoreNLP.
 
 ### What we have done :
-For  assignment 3, 
+#### For  assignment 3, 
 ######
 We have made an GUI so the user can interact with the chatbot in a nice interface and see the history.
 ######
@@ -31,6 +31,16 @@ We used Stanford's CoreNlp to ascertain the crux of the question so as to find a
   - Part-of-speech tagging was used to remove words that are not nouns, nouns are usually the subject of the question
   - Named entity recognition was also used as a fail safe incase the keyword in the question is not caught
 <img width="1055" alt="Screen Shot 2022-03-19 at 20 29 50" src="https://user-images.githubusercontent.com/72040706/159146810-a0a80b48-7e15-479e-818c-a85f4d653a41.png">
+
+#### For Individual Project, 
+
+To increase the functinality of the bot, I have used two public API'S:
+
+##### Google Translate API:
+Used this API to make the bot bilingual. Now, the bot replies to user in english as well as french. But, the user is only limited to input in english.
+
+##### Wikipedia API:
+Using this API, If the user ask the bot to describe something, the bot describes the word by fetching the information from wikipedia.
 
 
 
