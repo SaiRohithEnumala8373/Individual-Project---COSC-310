@@ -15,6 +15,13 @@ This class groups all nouns, interjections and adjectives together.
 
 This class contains functions used from CoreNLP.
 
+### Team Members
+* Paul Ranger 
+* Shan Hong Liew 
+* Gurbir Amrit 
+* Sai Rohith Enumala
+* Hong Minh
+
 ### What we have done:
 #### For  assignment 3, 
 ######
